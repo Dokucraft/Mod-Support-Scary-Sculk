@@ -1,0 +1,4 @@
+{"variants":{"can_summon=true":[{"model": "minecraft:block/sculk_shrieker_can_summon"},
+{"model": "minecraft:block/can_summon_sculk_jaw_one"},
+{"model": "minecraft:block/can_summon_sculk_jaw_two"},
+{"model": "minecraft:block/can_summon_sculk_jaw_three"}]}}

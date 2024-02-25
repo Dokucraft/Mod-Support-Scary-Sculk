@@ -1,0 +1,3 @@
+This is a resource pack (not a mod) and should live above your Dokucraft Resource pack in Minecraft, as this resource pack intentionally overwrites files below it to enable to additional features/textures.
+
+Link to resource pack by KeepMeow here: https://www.planetminecraft.com/texture-pack/scary-sculk/
